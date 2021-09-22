@@ -12,6 +12,8 @@ mod _331_is_valid_serialization;
 mod _404_sum_of_left_levels;
 mod _449_codec;
 mod _199_right_side_view;
+mod _501_find_mode;
+mod _513_find_bottom_left_value;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
