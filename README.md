@@ -14,4 +14,11 @@
 | 404 | 左叶子之和                       | BST     | [404_sum_of_left_levels](src/_404_sum_of_left_levels.rs)     |
 | 449 | 序列化和反序列化二叉搜索树         | BST     | [449_codec](src/_449_codec.rs)                               |
 | 501 | 二叉搜索树中的众数                | BST     | [501_find_mode](src/_501_find_mode.rs)                         |
+| 508 | 出现次数最多的子树元素和           | BST     | [508_find_frequent_tree_sum](src/_508_find_frequent_tree_sum.rs) |
 | 513 | 找树左下角的值                   | BST     | [513_find_bottom_left_value](src/_513_find_bottom_left_value.rs) |
+| 515 | 在每个树行中找最大值              | BST     | [515_largest_values.rs](src/_515_largest_values.rs) |
+| 530 | 二叉搜索树的最小绝对差            | BST     | [530_get_minimum_difference](src/_530_get_minimum_difference.rs) |
+| 563 | 二叉树的坡度                     | BST     | [563_find_tilt](src/_563_find_tilt.rs)                           |
+| 572 | 另一棵树的子树                   | BST     | [572_is_subtree](src/_572_is_subtree.rs)                       |
+| 606 | 根据二叉树创建字符串              | BST     | [606_tree2str](src/_606_tree2str.rs)                           |
+| 617 | 合并二叉树                       | BST     | [617_merge_trees](src/_617_merge_trees.rs)                     |
