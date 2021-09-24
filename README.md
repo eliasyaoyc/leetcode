@@ -22,3 +22,6 @@
 | 572 | 另一棵树的子树                   | BST     | [572_is_subtree](src/_572_is_subtree.rs)                       |
 | 606 | 根据二叉树创建字符串              | BST     | [606_tree2str](src/_606_tree2str.rs)                           |
 | 617 | 合并二叉树                       | BST     | [617_merge_trees](src/_617_merge_trees.rs)                     |
+| 623 | 在二叉树中增加一行                | BST     | [623_add_one_row](src/_623_add_one_row.rs)                     |
+| 637 | 二叉树的层平均值                  | BST     | [637_average_of_levels](src/_637_average_of_levels.rs)         |
+| 653 | 两数之和 IV - 输入 BST           | BST     | [653_find_target](src/_653_find_target.rs)                        |

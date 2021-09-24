@@ -21,6 +21,9 @@ mod _572_is_subtree;
 mod _563_find_tilt;
 mod _617_merge_trees;
 mod _606_tree2str;
+mod _637_average_of_levels;
+mod _623_add_one_row;
+mod _653_find_target;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
