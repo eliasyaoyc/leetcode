@@ -26,6 +26,9 @@
 | 637 | 二叉树的层平均值                  | BST     | [637_average_of_levels](src/_637_average_of_levels.rs)         |
 | 653 | 两数之和 IV - 输入 BST           | BST     | [653_find_target](src/_653_find_target.rs)                        |
 | 655 | 输出二叉树                       | BST     | [655_print_tree](src/_655_print_tree.rs)                        |
-| 662 | 二叉树最大宽度                   | BST     | [662_width_of_binary_tree.rs](src/_662_width_of_binary_tree.rs) |
-| 669 | 修剪二叉搜索树                   | BST     | [669_trim_bst.rs](src/_669_trim_bst.rs)                         |
-| 671 | 二叉树中第二小的节点              | BST     | [671_find_second_minimum_value.rs](src/_671_find_second_minimum_value.rs) |
+| 662 | 二叉树最大宽度                   | BST     | [662_width_of_binary_tree](src/_662_width_of_binary_tree.rs) |
+| 669 | 修剪二叉搜索树                   | BST     | [669_trim_bst](src/_669_trim_bst.rs)                         |
+| 671 | 二叉树中第二小的节点              | BST     | [671_find_second_minimum_value](src/_671_find_second_minimum_value.rs) |
+| 814 | 二叉树剪枝                      | BST     | [814_prune_tree](src/_814_prune_tree.rs)                            |
+| 1110 | 删点成林                       | BST     | [1110_del_nodes.rs](src/_1110_del_nodes.rs)                         |
+| 1325 | 删除给定值的叶子节点             | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)           |

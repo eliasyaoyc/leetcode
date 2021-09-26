@@ -1,7 +1,6 @@
 use std::rc::Rc;
 use std::cell::RefCell;
 use std::fmt::Debug;
-use std::prelude::rust_2015::Option::Some;
 use crate::TreeNode;
 
 pub struct Solution {}
