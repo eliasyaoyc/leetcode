@@ -25,3 +25,7 @@
 | 623 | 在二叉树中增加一行                | BST     | [623_add_one_row](src/_623_add_one_row.rs)                     |
 | 637 | 二叉树的层平均值                  | BST     | [637_average_of_levels](src/_637_average_of_levels.rs)         |
 | 653 | 两数之和 IV - 输入 BST           | BST     | [653_find_target](src/_653_find_target.rs)                        |
+| 655 | 输出二叉树                       | BST     | [655_print_tree](src/_655_print_tree.rs)                        |
+| 662 | 二叉树最大宽度                   | BST     | [662_width_of_binary_tree.rs](src/_662_width_of_binary_tree.rs) |
+| 669 | 修剪二叉搜索树                   | BST     | [669_trim_bst.rs](src/_669_trim_bst.rs)                         |
+| 671 | 二叉树中第二小的节点              | BST     | [671_find_second_minimum_value.rs](src/_671_find_second_minimum_value.rs) |

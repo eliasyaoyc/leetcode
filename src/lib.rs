@@ -24,6 +24,10 @@ mod _606_tree2str;
 mod _637_average_of_levels;
 mod _623_add_one_row;
 mod _653_find_target;
+mod _671_find_second_minimum_value;
+mod _655_print_tree;
+mod _669_trim_bst;
+mod _662_width_of_binary_tree;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
