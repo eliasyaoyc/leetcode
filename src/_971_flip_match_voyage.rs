@@ -5,7 +5,7 @@ use crate::TreeNode;
 struct Solution {}
 
 impl Solution {
-    pub fn del_nodes(root: Option<Rc<RefCell<TreeNode>>>, to_delete: Vec<i32>) -> Vec<Option<Rc<RefCell<TreeNode>>>> {
+    pub fn flip_match_voyage(root: Option<Rc<RefCell<TreeNode>>>, voyage: Vec<i32>) -> Vec<i32> {
         vec![]
     }
 }

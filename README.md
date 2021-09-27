@@ -29,6 +29,8 @@
 | 662 | 二叉树最大宽度                   | BST     | [662_width_of_binary_tree](src/_662_width_of_binary_tree.rs) |
 | 669 | 修剪二叉搜索树                   | BST     | [669_trim_bst](src/_669_trim_bst.rs)                         |
 | 671 | 二叉树中第二小的节点              | BST     | [671_find_second_minimum_value](src/_671_find_second_minimum_value.rs) |
+| 703 | 数据流中的第 K 大元素            | BST     | [703_kth_largest](src/_703_kth_largest.rs)                           |
 | 814 | 二叉树剪枝                      | BST     | [814_prune_tree](src/_814_prune_tree.rs)                            |
+| 965 | 单值二叉树                      | BST     | [965_is_unival_tree](src/_965_is_unival_tree.rs)                     |
 | 1110 | 删点成林                       | BST     | [1110_del_nodes.rs](src/_1110_del_nodes.rs)                         |
 | 1325 | 删除给定值的叶子节点             | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)           |
