@@ -34,6 +34,10 @@ mod _1110_del_nodes;
 mod _965_is_unival_tree;
 mod _971_flip_match_voyage;
 mod _703_kth_largest;
+mod _872_leaf_similar;
+mod _889_construct_from_pre_post;
+mod _938_range_sum_bst;
+mod _897_increasing_bst;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
