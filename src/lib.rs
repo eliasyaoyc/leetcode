@@ -38,6 +38,10 @@ mod _872_leaf_similar;
 mod _889_construct_from_pre_post;
 mod _938_range_sum_bst;
 mod _897_increasing_bst;
+mod _988_smallest_from_leaf;
+mod _687_longest_univalue_path;
+mod _437_path_sum;
+mod _560_subarray_sum;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
