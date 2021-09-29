@@ -34,8 +34,11 @@
 | 687 | 最长同值路径                     | BST     | [687_longest_univalue_path](src/_687_longest_univalue_path.rs)     |
 | 703 | 数据流中的第 K 大元素            | BST     | [703_kth_largest](src/_703_kth_largest.rs)                           |
 | 814 | 二叉树剪枝                      | BST     | [814_prune_tree](src/_814_prune_tree.rs)                            |
+| 863 | 二叉树中所有距离为k的节点         | BST     | [863_distance_k](src/_863_distance_k.rs)                            |
+| 865 | 具有所有最深节点的最小子树        | BST     | [865_subtree_with_all_deepest](src/_865_subtree_with_all_deepest.rs) |
 | 872 | 叶子相似的树                    | BST     | [872_leaf_similar](src/_872_leaf_similar.rs)                        |
 | 889 | 根据前序和后续遍历构建二叉树      | BST     | [889_construct_from_pre_post](src/_889_construct_from_pre_post.rs)  |
+| 894 | 所有可能的满二叉树               | BST     | [894_all_possible_fbt](src/_894_all_possible_fbt.rs)                |
 | 897 | 递增顺序搜索树                   | BST     | [897_increasing_bst](src/_897_increasing_bst.rs)                     |
 | 938 | 二叉搜索树的范围和               | BST     | [938_range_sum_bst](src/_938_range_sum_bst.rs)                       |
 | 965 | 单值二叉树                      | BST     | [965_is_unival_tree](src/_965_is_unival_tree.rs)                     |

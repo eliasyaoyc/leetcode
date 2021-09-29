@@ -42,6 +42,9 @@ mod _988_smallest_from_leaf;
 mod _687_longest_univalue_path;
 mod _437_path_sum;
 mod _560_subarray_sum;
+mod _863_distance_k;
+mod _865_subtree_with_all_deepest;
+mod _894_all_possible_fbt;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
