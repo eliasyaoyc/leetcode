@@ -40,7 +40,9 @@
 | 889 | 根据前序和后续遍历构建二叉树      | BST     | [889_construct_from_pre_post](src/_889_construct_from_pre_post.rs)  |
 | 894 | 所有可能的满二叉树               | BST     | [894_all_possible_fbt](src/_894_all_possible_fbt.rs)                |
 | 897 | 递增顺序搜索树                   | BST     | [897_increasing_bst](src/_897_increasing_bst.rs)                     |
+| 919 | 完成二叉树插入器                 | BST     | [919_CBT_insert](src/_919_CBT_insert.rs)                            |
 | 938 | 二叉搜索树的范围和               | BST     | [938_range_sum_bst](src/_938_range_sum_bst.rs)                       |
+| 951 | 翻转等价二叉树                   | BST     | [951_flip_equiv](src/_951_flip_equiv.rs)                              |
 | 965 | 单值二叉树                      | BST     | [965_is_unival_tree](src/_965_is_unival_tree.rs)                     |
 | 988 | 从叶结点开始的最小字符串          | BST     | [988_smallest_from_leaf](src/_988_smallest_from_leaf.rs)            |
 | 1110 | 删点成林                       | BST     | [1110_del_nodes](src/_1110_del_nodes.rs)                         |
