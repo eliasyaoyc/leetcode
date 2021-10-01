@@ -17,9 +17,9 @@
 | 501 | 二叉搜索树中的众数                | BST     | [501_find_mode](src/_501_find_mode.rs)                         |
 | 508 | 出现次数最多的子树元素和           | BST     | [508_find_frequent_tree_sum](src/_508_find_frequent_tree_sum.rs) |
 | 513 | 找树左下角的值                   | BST     | [513_find_bottom_left_value](src/_513_find_bottom_left_value.rs) |
-| 515 | 在每个树行中找最大值              | BST     | [515_largest_values](src/_515_largest_values.rs) |
-| 530 | 二叉搜索树的最小绝对差            | BST     | [530_get_minimum_difference](src/_560_subarray_sum.rs) |
-| 560 | 和为 K 的子数组                  | 前缀和   | [560_subarray_sum](src/_530_get_minimum_difference.rs) |
+| 515 | 在每个树行中找最大值              | BST     | [515_largest_values](src/_515_largest_values.rs)              |
+| 530 | 二叉搜索树的最小绝对差            | BST     | [530_get_minimum_difference](src/_560_subarray_sum.rs)         |
+| 560 | 和为 K 的子数组                  | 前缀和   | [560_subarray_sum](src/_530_get_minimum_difference.rs)        |
 | 563 | 二叉树的坡度                     | BST     | [563_find_tilt](src/_563_find_tilt.rs)                           |
 | 572 | 另一棵树的子树                   | BST     | [572_is_subtree](src/_572_is_subtree.rs)                       |
 | 606 | 根据二叉树创建字符串              | BST     | [606_tree2str](src/_606_tree2str.rs)                           |
@@ -43,7 +43,10 @@
 | 919 | 完成二叉树插入器                 | BST     | [919_CBT_insert](src/_919_CBT_insert.rs)                            |
 | 938 | 二叉搜索树的范围和               | BST     | [938_range_sum_bst](src/_938_range_sum_bst.rs)                       |
 | 951 | 翻转等价二叉树                   | BST     | [951_flip_equiv](src/_951_flip_equiv.rs)                              |
+| 958 | 二叉树的完全性                   | BST     | [958_is_complete_tree](src/_958_is_complete_tree.rs)                |
 | 965 | 单值二叉树                      | BST     | [965_is_unival_tree](src/_965_is_unival_tree.rs)                     |
+| 971 | 翻转二叉树以匹配先序遍历          | BST     | [971_flip_match_voyage](src/_971_flip_match_voyage.rs)                |
+| 979 | 在二叉树中分配硬币               | BST     | [979_distribute_coins](src/_979_distribute_coins.rs)                |
 | 988 | 从叶结点开始的最小字符串          | BST     | [988_smallest_from_leaf](src/_988_smallest_from_leaf.rs)            |
-| 1110 | 删点成林                       | BST     | [1110_del_nodes](src/_1110_del_nodes.rs)                         |
+| 1110 | 删点成林                       | BST     | [1110_del_nodes](src/_1110_del_nodes.rs)                            |
 | 1325 | 删除给定值的叶子节点             | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)           |

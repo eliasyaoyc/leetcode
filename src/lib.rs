@@ -47,6 +47,8 @@ mod _865_subtree_with_all_deepest;
 mod _894_all_possible_fbt;
 mod _919_CBT_insert;
 mod _951_flip_equiv;
+mod _958_is_complete_tree;
+mod _979_distribute_coins;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
