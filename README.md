@@ -48,5 +48,6 @@
 | 971 | 翻转二叉树以匹配先序遍历          | BST     | [971_flip_match_voyage](src/_971_flip_match_voyage.rs)                |
 | 979 | 在二叉树中分配硬币               | BST     | [979_distribute_coins](src/_979_distribute_coins.rs)                |
 | 988 | 从叶结点开始的最小字符串          | BST     | [988_smallest_from_leaf](src/_988_smallest_from_leaf.rs)            |
+| 993 | 二叉树的堂兄弟节点               | BST     | [993_is_cousins](src/_993_is_cousins.rs)                            |
 | 1110 | 删点成林                       | BST     | [1110_del_nodes](src/_1110_del_nodes.rs)                            |
 | 1325 | 删除给定值的叶子节点             | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)           |
