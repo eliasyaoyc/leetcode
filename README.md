@@ -49,5 +49,8 @@
 | 979 | 在二叉树中分配硬币               | BST     | [979_distribute_coins](src/_979_distribute_coins.rs)                |
 | 988 | 从叶结点开始的最小字符串          | BST     | [988_smallest_from_leaf](src/_988_smallest_from_leaf.rs)            |
 | 993 | 二叉树的堂兄弟节点               | BST     | [993_is_cousins](src/_993_is_cousins.rs)                            |
+| 998 | 最大二叉树 II                   | BST     | [998_insert_into_max_tree](src/_998_insert_into_max_tree.rs)        |
+| 1008 | 前序遍历构造二叉搜索树           | BST     | [1008_bst_from_preorder](src/_1008_bst_from_preorder.rs)           |
 | 1110 | 删点成林                       | BST     | [1110_del_nodes](src/_1110_del_nodes.rs)                            |
+| 1022 | 从根到叶的二进制数之和           | BST     | [1022_sum_root_to_leaf](src/_1022_sum_root_to_leaf.rs)              |
 | 1325 | 删除给定值的叶子节点             | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)           |

@@ -50,6 +50,9 @@ mod _951_flip_equiv;
 mod _958_is_complete_tree;
 mod _979_distribute_coins;
 mod _993_is_cousins;
+mod _998_insert_into_max_tree;
+mod _1008_bst_from_preorder;
+mod _1022_sum_root_to_leaf;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
