@@ -53,6 +53,8 @@ mod _993_is_cousins;
 mod _998_insert_into_max_tree;
 mod _1008_bst_from_preorder;
 mod _1022_sum_root_to_leaf;
+mod _1026_max_ancestor_diff;
+mod _1161_max_level_sum;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
