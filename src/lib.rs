@@ -57,6 +57,10 @@ mod _1026_max_ancestor_diff;
 mod _1161_max_level_sum;
 mod _1080_sufficient_subset;
 mod _1123_lca_deepest_leaves;
+mod _1302_deepest_leaves_sum;
+mod _1315_sum_even_grandparent;
+mod _1261_find_elements;
+mod _1305_get_all_elements;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {

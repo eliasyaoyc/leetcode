@@ -57,4 +57,8 @@
 | 1110 | 删点成林                       | BST     | [1110_del_nodes](src/_1110_del_nodes.rs)                            |
 | 1161 | 最大层内元素                   | BST     | [1161_max_level_sum](src/_1161_max_level_sum.rs)                     |
 | 1123 | 最深叶节点的最近公共祖先         | BST     | [1123_lca_deepest_leaves](src/_1123_lca_deepest_leaves.rs)           |
-| 1325 | 删除给定值的叶子节点             | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)            |
+| 1261 | 在受污染的二叉树中查找元素       | BST     | [1261_find_elements](src/_1261_find_elements.rs)                       |
+| 1302 | 层数最深叶子节点的和            | BST     | [1302_deepest_leaves_sum](src/_1302_deepest_leaves_sum.rs)          |
+| 1305 | 两棵二叉搜索树中的所有元素       | BST     | [1305_get_all_elements](src/_1305_get_all_elements.rs)              |
+| 1315 | 祖父节点值为偶数的节点和         | BST     | [1315_sum_even_grandparent](src/_1315_sum_even_grandparent.rs)      |
+| 1325 | 删除给定值的叶子节点            | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)            |
