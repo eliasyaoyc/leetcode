@@ -55,6 +55,7 @@
 | 1026 | 节点与其祖先之间的最大差值        | BST     | [1026_max_ancestor_diff](src/_1026_max_ancestor_diff.rs)            |
 | 1080 | 根到叶路径上的不足节点           | BST     | [1080_sufficient_subset](src/_1080_sufficient_subset.rs)              |
 | 1110 | 删点成林                       | BST     | [1110_del_nodes](src/_1110_del_nodes.rs)                            |
+| 1145 | 二叉树着色游戏                  | BST     | [1145_btree_game_winning_move](src/_1145_btree_game_winning_move.rs) |
 | 1161 | 最大层内元素                   | BST     | [1161_max_level_sum](src/_1161_max_level_sum.rs)                     |
 | 1123 | 最深叶节点的最近公共祖先         | BST     | [1123_lca_deepest_leaves](src/_1123_lca_deepest_leaves.rs)           |
 | 1261 | 在受污染的二叉树中查找元素       | BST     | [1261_find_elements](src/_1261_find_elements.rs)                       |
@@ -62,3 +63,7 @@
 | 1305 | 两棵二叉搜索树中的所有元素       | BST     | [1305_get_all_elements](src/_1305_get_all_elements.rs)              |
 | 1315 | 祖父节点值为偶数的节点和         | BST     | [1315_sum_even_grandparent](src/_1315_sum_even_grandparent.rs)      |
 | 1325 | 删除给定值的叶子节点            | BST     | [1325_remove_leaf_nodes](src/_1325_remove_leaf_nodes.rs)            |
+| 1367 | 二叉树中的列表                 | BST     | [1367_is_sub_path](src/_1367_is_sub_path.rs)                        |
+| 1382 | 将二叉搜索树变平衡              | BST     | [1382_balance_bst](src/_1382_balance_bst.rs)                       |
+| 1448 | 统计二叉树中好节点的数目         | BST     | [1448_good_nodes](src/_1448_good_nodes.rs)                         |
+| 1457 | 二叉树中的伪回文路径            | BST     | [1457_pseudo_palindromic_paths](src/_1457_pseudo_palindromic_paths.rs) |
