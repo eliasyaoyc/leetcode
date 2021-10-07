@@ -67,4 +67,5 @@
 | 1382 | 将二叉搜索树变平衡              | BST     | [1382_balance_bst](src/_1382_balance_bst.rs)                       |
 | 1448 | 统计二叉树中好节点的数目         | BST     | [1448_good_nodes](src/_1448_good_nodes.rs)                         |
 | 1457 | 二叉树中的伪回文路径            | BST     | [1457_pseudo_palindromic_paths](src/_1457_pseudo_palindromic_paths.rs) |
+| 1530 | 好叶子节点对的数量              | BST     | [1530_count_pairs](src/_1530_count_pairs.rs)                       |
 | 1609 | 奇偶数                       | BST     | [1609_is_even_odd_tree](src/_1609_is_even_odd_tree.rs)              |
