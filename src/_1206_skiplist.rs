@@ -28,14 +28,8 @@ impl Skiplist {
         let high = self.random_high();
     }
 
-    fn find_less_than(&self, num: i32, prev_nodes: Option<&[*const Node]>) {
-        let high = self.max_hegh;
-        let p = self.head;
-        loop {
-            unsafe {
-                let next_node = (*p).get_next(high);
-            }
-        }
+    fn find_greater_than(&self, num: i32, prev_nodes: Option<&[*const Node]>) -> *mut Node{
+
     }
 
     fn random_high(&self) -> u32 {
