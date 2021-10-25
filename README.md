@@ -72,6 +72,9 @@
 | 1609 | 奇偶数                       | BST     | [1609_is_even_odd_tree](src/bst/_1609_is_even_odd_tree.rs)              |
 
 ## DP
-| 编号 | 名称                             | 题目类型 | 题解                                                        |
+| 编号 | 名称                             | 题目类型 | 题解                                                         |
 | --- | ------------------------------- | ------- | ----------------------------------------------------------- |
-|  |                   |      |                    |
+| 53  | 最大子序和                       | DP      | [_53_max_sub_array](src/dp/_53_max_sub_array.rs)             |
+| 300 | 最长递增子序列                    | DP      | [_300_length_of_lis](src/dp/_300_length_of_lis.rs)           |
+| 322 | 零钱兑换                         | DP      | [_322_coin_change](src/dp/_322_coin_change.rs)               |
+| 509 | 斐波那契数                        | DP      | [_509_fib](src/dp/_509_fib.rs)                                |
