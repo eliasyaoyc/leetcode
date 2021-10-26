@@ -13,3 +13,6 @@ mod _509_fib;
 mod _322_coin_change;
 mod _300_length_of_lis;
 mod _53_max_sub_array;
+mod _494_find_target_sum_ways;
+mod _931_min_falling_path_sum;
+mod _516_longest_palindrome_subseq;

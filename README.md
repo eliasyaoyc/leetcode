@@ -72,9 +72,12 @@
 | 1609 | 奇偶数                       | BST     | [1609_is_even_odd_tree](src/bst/_1609_is_even_odd_tree.rs)              |
 
 ## DP
-| 编号 | 名称                             | 题目类型 | 题解                                                         |
-| --- | ------------------------------- | ------- | ----------------------------------------------------------- |
-| 53  | 最大子序和                       | DP      | [_53_max_sub_array](src/dp/_53_max_sub_array.rs)             |
-| 300 | 最长递增子序列                    | DP      | [_300_length_of_lis](src/dp/_300_length_of_lis.rs)           |
-| 322 | 零钱兑换                         | DP      | [_322_coin_change](src/dp/_322_coin_change.rs)               |
-| 509 | 斐波那契数                        | DP      | [_509_fib](src/dp/_509_fib.rs)                                |
+| 编号 | 名称                             | 题目类型 | 题解                                                                      |
+| --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
+| 53  | 最大子序和                       | DP      | [_53_max_sub_array](src/dp/_53_max_sub_array.rs)                          |
+| 300 | 最长递增子序列                    | DP      | [_300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
+| 322 | 零钱兑换                         | DP      | [_322_coin_change](src/dp/_322_coin_change.rs)                            |
+| 494 | 目标和                           | DP      | [_494_find_target_sum_ways](src/dp/_494_find_target_sum_ways.rs)            |
+| 509 | 斐波那契数                        | DP      | [_509_fib](src/dp/_509_fib.rs)                                              |
+| 516 | 最长回文子序列                     | DP      | [_516_longest_palindrome_subseq](src/dp/_516_longest_palindrome_subseq.rs)|
+| 931 | 下降路径最小和                     | DP      | [_931_min_falling_path_sum](src/dp/_931_min_falling_path_sum.rs)          |
