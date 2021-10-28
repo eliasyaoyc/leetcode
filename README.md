@@ -77,9 +77,12 @@
 | 53  | 最大子序和                       | DP      | [_53_max_sub_array](src/dp/_53_max_sub_array.rs)                          |
 | 300 | 最长递增子序列                    | DP      | [_300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [_322_coin_change](src/dp/_322_coin_change.rs)                            |
+| 392 | 判断子序列                        | DP      | [_392_is_subsequence](src/dp/_392_is_subsequence.rs)                      |
 | 494 | 目标和                           | DP      | [_494_find_target_sum_ways](src/dp/_494_find_target_sum_ways.rs)            |
 | 509 | 斐波那契数                        | DP      | [_509_fib](src/dp/_509_fib.rs)                                              |
 | 516 | 最长回文子序列                     | DP      | [_516_longest_palindrome_subseq](src/dp/_516_longest_palindrome_subseq.rs)|
+| 583 | 两个字符串的删除操作                | DP      | [_583_min_distance](src/dp/_583_min_distance.rs)                          |
+| 647 | 回文子串                          | DP      | [_647_count_substrings](src/dp/_647_count_substrings.rs)                  |
 | 674 | 最长连续递增序列                    | DP      | [_674_find_length_of_lcis](src/dp/_674_find_length_of_lcis.rs)             |
 | 718 | 最长重复子数组                     | DP      | [_718_find_length](src/dp/_718_find_length.rs)                              |
 | 931 | 下降路径最小和                     | DP      | [_931_min_falling_path_sum](src/dp/_931_min_falling_path_sum.rs)          |

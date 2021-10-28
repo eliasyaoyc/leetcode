@@ -36,3 +36,6 @@ mod _516_longest_palindrome_subseq;
 mod _1143_longest_common_subsequence;
 mod _718_find_length;
 mod _674_find_length_of_lcis;
+mod _392_is_subsequence;
+mod _647_count_substrings;
+mod _583_min_distance;
