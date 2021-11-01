@@ -75,6 +75,7 @@
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
 | --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
 | 53  | 最大子序和                       | DP      | [_53_max_sub_array](src/dp/_53_max_sub_array.rs)                          |
+| 115 | 不同的子序列                      | DP      | [_115_num_distinct](src/dp/_115_num_distinct.rs)                          |
 | 300 | 最长递增子序列                    | DP      | [_300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [_322_coin_change](src/dp/_322_coin_change.rs)                            |
 | 392 | 判断子序列                        | DP      | [_392_is_subsequence](src/dp/_392_is_subsequence.rs)                      |
@@ -86,4 +87,5 @@
 | 674 | 最长连续递增序列                    | DP      | [_674_find_length_of_lcis](src/dp/_674_find_length_of_lcis.rs)             |
 | 718 | 最长重复子数组                     | DP      | [_718_find_length](src/dp/_718_find_length.rs)                              |
 | 931 | 下降路径最小和                     | DP      | [_931_min_falling_path_sum](src/dp/_931_min_falling_path_sum.rs)          |
+| 1035 | 不相交的线                        | DP      | [_1035_max_uncrossed_lines](src/dp/_1035_max_uncrossed_lines.rs)          |
 | 1143 | 最长公共子序列                     | DP      | [_1143_longest_common_subsequence](src/dp/_1143_longest_common_subsequence.rs)|

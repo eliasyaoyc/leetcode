@@ -39,3 +39,5 @@ mod _674_find_length_of_lcis;
 mod _392_is_subsequence;
 mod _647_count_substrings;
 mod _583_min_distance;
+mod _1035_max_uncrossed_lines;
+mod _115_num_distinct;
