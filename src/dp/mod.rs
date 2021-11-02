@@ -41,3 +41,7 @@ mod _647_count_substrings;
 mod _583_min_distance;
 mod _1035_max_uncrossed_lines;
 mod _115_num_distinct;
+mod _70_climb_stairs;
+mod _746_min_cost_climbing_stairs;
+mod _62_unique_paths;
+mod _63_unique_paths_with_obstacles;

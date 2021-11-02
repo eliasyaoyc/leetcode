@@ -75,6 +75,9 @@
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
 | --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
 | 53  | 最大子序和                       | DP      | [53_max_sub_array](src/dp/_53_max_sub_array.rs)                          |
+| 62  | 不同路径                         | DP      | [62_unique_paths](src/dp/_62_unique_paths.rs)                            |
+| 63  | 不同路径 II                      | DP      | [63_unique_paths_with_obstacles](src/dp/_63_unique_paths_with_obstacles.rs)|
+| 70  | 爬楼梯                           | DP      | [70_climb_stairs](src/dp/_70_climb_stairs.rs)                            |
 | 115 | 不同的子序列                      | DP      | [115_num_distinct](src/dp/_115_num_distinct.rs)                          |
 | 300 | 最长递增子序列                    | DP      | [300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [322_coin_change](src/dp/_322_coin_change.rs)                            |
@@ -86,6 +89,7 @@
 | 647 | 回文子串                          | DP      | [647_count_substrings](src/dp/_647_count_substrings.rs)                  |
 | 674 | 最长连续递增序列                    | DP      | [674_find_length_of_lcis](src/dp/_674_find_length_of_lcis.rs)             |
 | 718 | 最长重复子数组                     | DP      | [718_find_length](src/dp/_718_find_length.rs)                              |
+| 746 | 使用最小花费爬楼梯                  | DP      | [746_min_cost_climbing_stairs](src/dp/_746_min_cost_climbing_stairs.rs)  |
 | 931 | 下降路径最小和                     | DP      | [931_min_falling_path_sum](src/dp/_931_min_falling_path_sum.rs)          |
 | 1035 | 不相交的线                        | DP      | [1035_max_uncrossed_lines](src/dp/_1035_max_uncrossed_lines.rs)          |
 | 1143 | 最长公共子序列                     | DP      | [1143_longest_common_subsequence](src/dp/_1143_longest_common_subsequence.rs)|
