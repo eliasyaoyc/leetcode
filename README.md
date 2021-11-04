@@ -71,6 +71,11 @@
 | 1530 | 好叶子节点对的数量              | BST     | [1530_count_pairs](src/bst/_1530_count_pairs.rs)                       |
 | 1609 | 奇偶数                       | BST     | [1609_is_even_odd_tree](src/bst/_1609_is_even_odd_tree.rs)              |
 
+## 回溯
+| 编号 | 名称                             | 题目类型 | 题解                                                                      |
+| --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
+| 77  | 组合                             | 回溯      | [77_combine](src/dp/_77_combine.rs)                                    |
+
 ## DP
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
 | --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
@@ -82,6 +87,7 @@
 | 300 | 最长递增子序列                    | DP      | [300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [322_coin_change](src/dp/_322_coin_change.rs)                            |
 | 392 | 判断子序列                        | DP      | [392_is_subsequence](src/dp/_392_is_subsequence.rs)                      |
+| 416 | 分割等和子集                      | DP      | [416_can_partition](src/dp/_416_can_partition.rs)                       |
 | 494 | 目标和                           | DP      | [494_find_target_sum_ways](src/dp/_494_find_target_sum_ways.rs)            |
 | 509 | 斐波那契数                        | DP      | [509_fib](src/dp/_509_fib.rs)                                              |
 | 516 | 最长回文子序列                     | DP      | [516_longest_palindrome_subseq](src/dp/_516_longest_palindrome_subseq.rs)|

@@ -45,3 +45,4 @@ mod _70_climb_stairs;
 mod _746_min_cost_climbing_stairs;
 mod _62_unique_paths;
 mod _63_unique_paths_with_obstacles;
+mod _416_can_partition;
