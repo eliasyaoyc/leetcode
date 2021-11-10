@@ -78,6 +78,7 @@
 | 39  | 组合综合                          | 回溯      | [39_combination_sum](src/dp/_39_combination_sum.rs)                   |
 | 40  | 组合总和 II                       | 回溯      | [40_combination_sum2](src/dp/_40_combination_sum2.rs)                 |
 | 77  | 组合                             | 回溯      | [77_combine](src/dp/_77_combine.rs)                                    |
+| 131 | 分割回文串                        | 回溯      | [131_partition](src/dp/_131_partition.rs)                              |
 | 216 | 组合总和 III                     | 回溯      | [216_combination_sum3](src/dp/_216_combination_sum3.rs)                |
 
 ## DP
