@@ -4,3 +4,6 @@ mod _17_letter_combinations;
 mod _39_combination_sum;
 mod _40_combination_sum2;
 mod _131_partition;
+mod _93_restore_ip_addresses;
+mod _78_subsets;
+mod _90_subsets_with_dup;

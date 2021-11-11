@@ -78,6 +78,9 @@
 | 39  | 组合综合                          | 回溯      | [39_combination_sum](src/dp/_39_combination_sum.rs)                   |
 | 40  | 组合总和 II                       | 回溯      | [40_combination_sum2](src/dp/_40_combination_sum2.rs)                 |
 | 77  | 组合                             | 回溯      | [77_combine](src/dp/_77_combine.rs)                                    |
+| 78  | 子集                             | 回溯      | [78_subsets](src/dp/_78_subsets.rs)                                    |
+| 90  | 子集 I                           | 回溯      | [90_subsets_with_dup](src/dp/_90_subsets_with_dup.rs)                  |
+| 93  | 复原IP地址                        | 回溯      | [93_restore_ip_addresses](src/dp/_93_restore_ip_addresses.rs)         |
 | 131 | 分割回文串                        | 回溯      | [131_partition](src/dp/_131_partition.rs)                              |
 | 216 | 组合总和 III                     | 回溯      | [216_combination_sum3](src/dp/_216_combination_sum3.rs)                |
 
