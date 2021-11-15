@@ -7,3 +7,6 @@ mod _131_partition;
 mod _93_restore_ip_addresses;
 mod _78_subsets;
 mod _90_subsets_with_dup;
+mod _491_find_subsequences;
+mod _46_permute;
+mod _47_permute_unique;
