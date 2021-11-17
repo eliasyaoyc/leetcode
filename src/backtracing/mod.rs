@@ -10,3 +10,4 @@ mod _90_subsets_with_dup;
 mod _491_find_subsequences;
 mod _46_permute;
 mod _47_permute_unique;
+mod _22_generate_parenthesis;

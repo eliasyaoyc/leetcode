@@ -75,6 +75,7 @@
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
 | --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
 | 17  | 电话号码的字母组合                 | 回溯      | [17_letter_combinations](src/dp/_17_letter_combinations.rs)            |
+| 22  | 括号生成                          | 回溯      | [22_generate_parenthesis](src/dp/_22_generate_parenthesis.rs)          |
 | 39  | 组合综合                          | 回溯      | [39_combination_sum](src/dp/_39_combination_sum.rs)                   |
 | 40  | 组合总和 II                       | 回溯      | [40_combination_sum2](src/dp/_40_combination_sum2.rs)                 |
 | 46  | 全排列                            | 回溯      | [46_permute](src/dp/_46_permute.rs)                                   |
