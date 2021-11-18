@@ -86,6 +86,7 @@
 | 93  | 复原IP地址                        | 回溯      | [93_restore_ip_addresses](src/dp/_93_restore_ip_addresses.rs)         |
 | 131 | 分割回文串                        | 回溯      | [131_partition](src/dp/_131_partition.rs)                              |
 | 216 | 组合总和 III                     | 回溯      | [216_combination_sum3](src/dp/_216_combination_sum3.rs)                |
+| 357 | 计算各个位数不同的数字个数          | 回溯      | [357_count_numbers_with_unique_digits](src/dp/_357_count_numbers_with_unique_digits.rs)|
 | 491 | 递增子序列                       | 回溯      | [491_find_subsequences](src/dp/_491_find_subsequences.rs)                |
 
 ## DP
