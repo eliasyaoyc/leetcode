@@ -12,3 +12,4 @@ mod _46_permute;
 mod _47_permute_unique;
 mod _22_generate_parenthesis;
 mod _357_count_numbers_with_unique_digits;
+mod _784_letter_case_permutation;
