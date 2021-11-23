@@ -91,6 +91,7 @@
 | 526 | 优美的排列                        | 回溯      | [526_count_arrangement](src/dp/_526_count_arrangement.rs)              |
 | 784 | 字母大小写全排列                   | 回溯      | [784_letter_case_permutation](src/dp/_784_letter_case_permutation.rs)  |
 | 816 | 模糊坐标                          | 回溯      | [816_ambiguous_coordinates](src/dp/_816_ambiguous_coordinates.rs)      |
+| 842 | 将数组拆分成斐波那契序列            | 回溯      | [842_split_into_fibonacci](src/dp/_842_split_into_fibonacci.rs)          |
 
 ## DP
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |

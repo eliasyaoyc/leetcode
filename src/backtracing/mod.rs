@@ -15,3 +15,4 @@ mod _357_count_numbers_with_unique_digits;
 mod _784_letter_case_permutation;
 mod _526_count_arrangement;
 mod _816_ambiguous_coordinates;
+mod _842_split_into_fibonacci;
