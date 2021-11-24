@@ -89,9 +89,12 @@
 | 357 | 计算各个位数不同的数字个数          | 回溯      | [357_count_numbers_with_unique_digits](src/dp/_357_count_numbers_with_unique_digits.rs)|
 | 491 | 递增子序列                        | 回溯      | [491_find_subsequences](src/dp/_491_find_subsequences.rs)                |
 | 526 | 优美的排列                        | 回溯      | [526_count_arrangement](src/dp/_526_count_arrangement.rs)              |
+| 698 | 划分为k个相等的子集                | 回溯      | [698_can_partition_k_subsets](src/dp/_698_can_partition_k_subsets.rs)  |
 | 784 | 字母大小写全排列                   | 回溯      | [784_letter_case_permutation](src/dp/_784_letter_case_permutation.rs)  |
 | 816 | 模糊坐标                          | 回溯      | [816_ambiguous_coordinates](src/dp/_816_ambiguous_coordinates.rs)      |
 | 842 | 将数组拆分成斐波那契序列            | 回溯      | [842_split_into_fibonacci](src/dp/_842_split_into_fibonacci.rs)          |
+| 967 | 连续差相同的数字                   | 回溯      | [967_nums_same_consec_diff](src/dp/_967_nums_same_consec_diff.rs)      |
+| 1079 | 活字印刷                         | 回溯      | [1079_num_tile_possibilities](src/dp/_1079_num_tile_possibilities.rs) |
 
 ## DP
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |

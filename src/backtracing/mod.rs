@@ -16,3 +16,6 @@ mod _784_letter_case_permutation;
 mod _526_count_arrangement;
 mod _816_ambiguous_coordinates;
 mod _842_split_into_fibonacci;
+mod _967_nums_same_consec_diff;
+mod _698_can_partition_k_subsets;
+mod _1079_num_tile_possibilities;
