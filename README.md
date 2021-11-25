@@ -119,6 +119,8 @@
 | 931 | 下降路径最小和                     | DP      | [931_min_falling_path_sum](src/dp/_931_min_falling_path_sum.rs)          |
 | 1035 | 不相交的线                        | DP      | [1035_max_uncrossed_lines](src/dp/_1035_max_uncrossed_lines.rs)          |
 | 1143 | 最长公共子序列                     | DP      | [1143_longest_common_subsequence](src/dp/_1143_longest_common_subsequence.rs)|
+| 1219 | 黄金矿工                          | DP      | [1219_get_maximum_gold](src/dp/_1219_get_maximum_gold.rs)                |
+| 1286 | 字母组合迭代器                     | DP      | [1286_combination_iterator](src/dp/_1286_combination_iterator.rs)        |
 
 
 ## Other

@@ -19,3 +19,5 @@ mod _842_split_into_fibonacci;
 mod _967_nums_same_consec_diff;
 mod _698_can_partition_k_subsets;
 mod _1079_num_tile_possibilities;
+mod _1286_combination_iterator;
+mod _1219_get_maximum_gold;
