@@ -95,6 +95,8 @@
 | 842 | 将数组拆分成斐波那契序列            | 回溯      | [842_split_into_fibonacci](src/dp/_842_split_into_fibonacci.rs)          |
 | 967 | 连续差相同的数字                   | 回溯      | [967_nums_same_consec_diff](src/dp/_967_nums_same_consec_diff.rs)      |
 | 1079 | 活字印刷                         | 回溯      | [1079_num_tile_possibilities](src/dp/_1079_num_tile_possibilities.rs) |
+| 1415 | 长度为 n 的开心字符串中字典序第 k 小的字符串 | 回溯      | [1415_get_happy_string](src/dp/_1415_get_happy_string.rs)      |
+| 1593 | 拆分字符串使唯一子字符串的数目最大   | 回溯      | [1593_max_unique_split](src/dp/_1593_max_unique_split.rs)             |
 
 ## DP
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |

@@ -21,3 +21,4 @@ mod _698_can_partition_k_subsets;
 mod _1079_num_tile_possibilities;
 mod _1286_combination_iterator;
 mod _1219_get_maximum_gold;
+mod _1593_max_unique_split;
