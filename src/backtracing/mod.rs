@@ -23,3 +23,6 @@ mod _1286_combination_iterator;
 mod _1219_get_maximum_gold;
 mod _1593_max_unique_split;
 mod _08_04_subsets;
+mod _2044_count_max_or_subsets;
+mod _08_07_permutation;
+mod _08_12_solve_n_queens;

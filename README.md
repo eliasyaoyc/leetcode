@@ -97,7 +97,7 @@
 | 1079 | 活字印刷                         | 回溯      | [1079_num_tile_possibilities](src/dp/_1079_num_tile_possibilities.rs) |
 | 1415 | 长度为 n 的开心字符串中字典序第 k 小的字符串 | 回溯      | [1415_get_happy_string](src/dp/_1415_get_happy_string.rs)      |
 | 1593 | 拆分字符串使唯一子字符串的数目最大   | 回溯      | [1593_max_unique_split](src/dp/_1593_max_unique_split.rs)             |
-| 面试题 08.04. 幂集 | 拆分字符串使唯一子字符串的数目最大   | 回溯      | [08_04_subsets](src/dp/_08_04_subsets.rs)                |
+| 2044 | 统计按位或能得到最大值的子集数目     | 回溯      | [2044_count_max_or_subsets](src/dp/_2044_count_max_or_subsets.rs)     |
 
 ## DP
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
