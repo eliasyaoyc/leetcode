@@ -26,3 +26,6 @@ mod _08_04_subsets;
 mod _2044_count_max_or_subsets;
 mod _08_07_permutation;
 mod _08_12_solve_n_queens;
+mod _08_08_permutation;
+mod _127_ladder_length;
+mod _17_22_find_ladders;
