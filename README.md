@@ -74,31 +74,33 @@
 ## 回溯
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
 | -- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
-| 17 | 电话号码的字母组合                 | 回溯      | [17_letter_combinations](src/dp/_17_letter_combinations.rs)            |
-| 22 | 括号生成                          | 回溯      | [22_generate_parenthesis](src/dp/_22_generate_parenthesis.rs)          |
-| 39 | 组合综合                          | 回溯      | [39_combination_sum](src/dp/_39_combination_sum.rs)                   |
-| 40 | 组合总和 II                       | 回溯      | [40_combination_sum2](src/dp/_40_combination_sum2.rs)                 |
-| 46 | 全排列                            | 回溯      | [46_permute](src/dp/_46_permute.rs)                                   |
-| 47 | 全排列 II                         | 回溯      | [47_permute_unique](src/dp/_47_permute_unique.rs)                    |
-| 77 | 组合                             | 回溯      | [77_combine](src/dp/_77_combine.rs)                                    |
-| 78 | 子集                             | 回溯      | [78_subsets](src/dp/_78_subsets.rs)                                    |
-| 90 | 子集 I                           | 回溯      | [90_subsets_with_dup](src/dp/_90_subsets_with_dup.rs)                  |
-| 93 | 复原IP地址                        | 回溯      | [93_restore_ip_addresses](src/dp/_93_restore_ip_addresses.rs)         |
-| 127 | 单词接龙                        | 回溯      | [127_ladder_length](src/dp/_127_ladder_length.rs)                       |
-| 131 | 分割回文串                        | 回溯      | [131_partition](src/dp/_131_partition.rs)                              |
-| 216 | 组合总和 III                     | 回溯      | [216_combination_sum3](src/dp/_216_combination_sum3.rs)                |
-| 357 | 计算各个位数不同的数字个数          | 回溯      | [357_count_numbers_with_unique_digits](src/dp/_357_count_numbers_with_unique_digits.rs)|
-| 491 | 递增子序列                        | 回溯      | [491_find_subsequences](src/dp/_491_find_subsequences.rs)                |
-| 526 | 优美的排列                        | 回溯      | [526_count_arrangement](src/dp/_526_count_arrangement.rs)              |
-| 698 | 划分为k个相等的子集                | 回溯      | [698_can_partition_k_subsets](src/dp/_698_can_partition_k_subsets.rs)  |
-| 784 | 字母大小写全排列                   | 回溯      | [784_letter_case_permutation](src/dp/_784_letter_case_permutation.rs)  |
-| 816 | 模糊坐标                          | 回溯      | [816_ambiguous_coordinates](src/dp/_816_ambiguous_coordinates.rs)      |
-| 842 | 将数组拆分成斐波那契序列            | 回溯      | [842_split_into_fibonacci](src/dp/_842_split_into_fibonacci.rs)          |
-| 967 | 连续差相同的数字                   | 回溯      | [967_nums_same_consec_diff](src/dp/_967_nums_same_consec_diff.rs)      |
-| 1079 | 活字印刷                         | 回溯      | [1079_num_tile_possibilities](src/dp/_1079_num_tile_possibilities.rs) |
-| 1415 | 长度为 n 的开心字符串中字典序第 k 小的字符串 | 回溯      | [1415_get_happy_string](src/dp/_1415_get_happy_string.rs)      |
-| 1593 | 拆分字符串使唯一子字符串的数目最大   | 回溯      | [1593_max_unique_split](src/dp/_1593_max_unique_split.rs)             |
-| 2044 | 统计按位或能得到最大值的子集数目     | 回溯      | [2044_count_max_or_subsets](src/dp/_2044_count_max_or_subsets.rs)     |
+| 17 | 电话号码的字母组合                 | 回溯      | [17_letter_combinations](src/backtracing/_17_letter_combinations.rs)            |
+| 22 | 括号生成                          | 回溯      | [22_generate_parenthesis](src/backtracing/_22_generate_parenthesis.rs)          |
+| 39 | 组合综合                          | 回溯      | [39_combination_sum](src/backtracing/_39_combination_sum.rs)                   |
+| 40 | 组合总和 II                       | 回溯      | [40_combination_sum2](src/backtracing/_40_combination_sum2.rs)                 |
+| 46 | 全排列                            | 回溯      | [46_permute](src/backtracing/_46_permute.rs)                                   |
+| 47 | 全排列 II                         | 回溯      | [47_permute_unique](src/backtracing/_47_permute_unique.rs)                    |
+| 77 | 组合                             | 回溯      | [77_combine](src/backtracing/_77_combine.rs)                                    |
+| 78 | 子集                             | 回溯      | [78_subsets](src/backtracing/_78_subsets.rs)                                    |
+| 90 | 子集 I                           | 回溯      | [90_subsets_with_dup](src/backtracing/_90_subsets_with_dup.rs)                  |
+| 93 | 复原IP地址                        | 回溯      | [93_restore_ip_addresses](src/backtracing/_93_restore_ip_addresses.rs)         |
+| 127 | 单词接龙                        | 回溯      | [127_ladder_length](src/backtracing/_127_ladder_length.rs)                       |
+| 131 | 分割回文串                        | 回溯      | [131_partition](src/backtracing/_131_partition.rs)                              |
+| 216 | 组合总和 III                     | 回溯      | [216_combination_sum3](src/backtracing/_216_combination_sum3.rs)                |
+| 357 | 计算各个位数不同的数字个数          | 回溯      | [357_count_numbers_with_unique_digits](src/backtracing/_357_count_numbers_with_unique_digits.rs)|
+| 491 | 递增子序列                        | 回溯      | [491_find_subsequences](src/backtracing/_491_find_subsequences.rs)                |
+| 494 | 目标和                           | DP      | [494_find_target_sum_ways](src/backtracing/_494_find_target_sum_ways.rs)            |
+| 526 | 优美的排列                        | 回溯      | [526_count_arrangement](src/backtracing/_526_count_arrangement.rs)              |
+| 698 | 划分为k个相等的子集                | 回溯      | [698_can_partition_k_subsets](src/backtracing/_698_can_partition_k_subsets.rs)  |
+| 784 | 字母大小写全排列                   | 回溯      | [784_letter_case_permutation](src/backtracing/_784_letter_case_permutation.rs)  |
+| 797 | 所有可能的路径                     | 回溯      | [797_all_paths_source_target](src/backtracing/_797_all_paths_source_target.rs)  |
+| 816 | 模糊坐标                          | 回溯      | [816_ambiguous_coordinates](src/backtracing/_816_ambiguous_coordinates.rs)      |
+| 842 | 将数组拆分成斐波那契序列            | 回溯      | [842_split_into_fibonacci](src/backtracing/_842_split_into_fibonacci.rs)          |
+| 967 | 连续差相同的数字                   | 回溯      | [967_nums_same_consec_diff](src/backtracing/_967_nums_same_consec_diff.rs)      |
+| 1079 | 活字印刷                         | 回溯      | [1079_num_tile_possibilities](src/backtracing/_1079_num_tile_possibilities.rs) |
+| 1415 | 长度为 n 的开心字符串中字典序第 k 小的字符串 | 回溯      | [1415_get_happy_string](src/backtracing/_1415_get_happy_string.rs)      |
+| 1593 | 拆分字符串使唯一子字符串的数目最大   | 回溯      | [1593_max_unique_split](src/backtracing/_1593_max_unique_split.rs)             |
+| 2044 | 统计按位或能得到最大值的子集数目     | 回溯      | [2044_count_max_or_subsets](src/backtracing/_2044_count_max_or_subsets.rs)     |
 
 ## DP
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |

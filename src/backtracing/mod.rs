@@ -29,3 +29,5 @@ mod _08_12_solve_n_queens;
 mod _08_08_permutation;
 mod _127_ladder_length;
 mod _17_22_find_ladders;
+mod _494_find_target_sum_ways;
+mod _797_all_paths_source_target;
