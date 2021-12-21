@@ -9,8 +9,8 @@ impl Solution {
                 }
                 return;
             }
-            dfs(nums, target, index + 1, sum + s[index], ans);
-            dfs(nums, target, index + 1, sum - s[index], ans);
+            dfs(nums, target, index + 1, sum + nums[index], ans);
+            dfs(nums, target, index + 1, sum - nums[index], ans);
         }
         let mut ans = 0_i32;
         dfs(&nums, target, 0, 0, &mut ans);

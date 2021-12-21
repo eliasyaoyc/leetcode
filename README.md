@@ -104,14 +104,15 @@
 
 ## DP
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
-| --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
-| 53  | 最大子序和                       | DP      | [53_max_sub_array](src/dp/_53_max_sub_array.rs)                          |
-| 62  | 不同路径                         | DP      | [62_unique_paths](src/dp/_62_unique_paths.rs)                            |
-| 63  | 不同路径 II                      | DP      | [63_unique_paths_with_obstacles](src/dp/_63_unique_paths_with_obstacles.rs)|
-| 70  | 爬楼梯                           | DP      | [70_climb_stairs](src/dp/_70_climb_stairs.rs)                            |
+| -- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
+| 53 | 最大子序和                       | DP      | [53_max_sub_array](src/dp/_53_max_sub_array.rs)                          |
+| 62 | 不同路径                         | DP      | [62_unique_paths](src/dp/_62_unique_paths.rs)                            |
+| 63 | 不同路径 II                      | DP      | [63_unique_paths_with_obstacles](src/dp/_63_unique_paths_with_obstacles.rs)|
+| 70 | 爬楼梯                           | DP      | [70_climb_stairs](src/dp/_70_climb_stairs.rs)                            |
 | 115 | 不同的子序列                      | DP      | [115_num_distinct](src/dp/_115_num_distinct.rs)                          |
 | 300 | 最长递增子序列                    | DP      | [300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [322_coin_change](src/dp/_322_coin_change.rs)                            |
+| 343 | 正数拆分                         | DP      | [343_integer_break](src/dp/_343_integer_break.rs)                        |
 | 392 | 判断子序列                        | DP      | [392_is_subsequence](src/dp/_392_is_subsequence.rs)                      |
 | 416 | 分割等和子集                      | DP      | [416_can_partition](src/dp/_416_can_partition.rs)                       |
 | 494 | 目标和                           | DP      | [494_find_target_sum_ways](src/dp/_494_find_target_sum_ways.rs)            |
