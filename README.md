@@ -109,6 +109,7 @@
 | 62 | 不同路径                         | DP      | [62_unique_paths](src/dp/_62_unique_paths.rs)                            |
 | 63 | 不同路径 II                      | DP      | [63_unique_paths_with_obstacles](src/dp/_63_unique_paths_with_obstacles.rs)|
 | 70 | 爬楼梯                           | DP      | [70_climb_stairs](src/dp/_70_climb_stairs.rs)                            |
+| 91 | 不同的二叉搜索                    | DP      | [96_num_trees](src/dp/_96_num_trees.rs)                                   |
 | 115 | 不同的子序列                      | DP      | [115_num_distinct](src/dp/_115_num_distinct.rs)                          |
 | 300 | 最长递增子序列                    | DP      | [300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [322_coin_change](src/dp/_322_coin_change.rs)                            |
@@ -125,6 +126,7 @@
 | 746 | 使用最小花费爬楼梯                  | DP      | [746_min_cost_climbing_stairs](src/dp/_746_min_cost_climbing_stairs.rs)  |
 | 931 | 下降路径最小和                     | DP      | [931_min_falling_path_sum](src/dp/_931_min_falling_path_sum.rs)          |
 | 1035 | 不相交的线                        | DP      | [1035_max_uncrossed_lines](src/dp/_1035_max_uncrossed_lines.rs)          |
+| 1049 | 最后一块石头的重量 II               | DP      | [1049_last_stone_weight_ii](src/dp/_1049_last_stone_weight_ii.rs)       |
 | 1143 | 最长公共子序列                     | DP      | [1143_longest_common_subsequence](src/dp/_1143_longest_common_subsequence.rs)|
 | 1219 | 黄金矿工                          | DP      | [1219_get_maximum_gold](src/dp/_1219_get_maximum_gold.rs)                |
 | 1286 | 字母组合迭代器                     | DP      | [1286_combination_iterator](src/dp/_1286_combination_iterator.rs)        |

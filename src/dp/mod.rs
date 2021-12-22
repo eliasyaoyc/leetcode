@@ -26,6 +26,12 @@
 //!   i           j
 //! 1 2 3 4 5 6 7 8 9
 //! ```
+//!
+//! 关于 背包问题 （01 背包和 完全背包）
+//! ⚠️ 如果使用一维数组来解决的话，物品遍历放在外层，背包放在内层，并且内层倒序遍历
+//! 01 背包：只有一个 选一个或者不选：比如 有N件物品和一个最多能背重量为 W 的背包，第 i 件物品的重量是 weight[i], 得到的价值是 value[i]，每件物品只能用一次，求哪些物品装入背包李物品价值总和最大
+//!
+//! 完全背包：无数个   选几个或者不选
 mod _509_fib;
 mod _322_coin_change;
 mod _300_length_of_lis;
@@ -47,3 +53,5 @@ mod _62_unique_paths;
 mod _63_unique_paths_with_obstacles;
 mod _416_can_partition;
 mod _343_integer_break;
+mod _96_num_trees;
+mod _1049_last_stone_weight_ii;
