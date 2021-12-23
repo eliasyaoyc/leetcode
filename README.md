@@ -116,6 +116,7 @@
 | 343 | 正数拆分                         | DP      | [343_integer_break](src/dp/_343_integer_break.rs)                        |
 | 392 | 判断子序列                        | DP      | [392_is_subsequence](src/dp/_392_is_subsequence.rs)                      |
 | 416 | 分割等和子集                      | DP      | [416_can_partition](src/dp/_416_can_partition.rs)                       |
+| 474 | 一和零                           | DP      | [474_find_max_form](src/dp/_474_find_max_form.rs)                          |
 | 494 | 目标和                           | DP      | [494_find_target_sum_ways](src/dp/_494_find_target_sum_ways.rs)            |
 | 509 | 斐波那契数                        | DP      | [509_fib](src/dp/_509_fib.rs)                                              |
 | 516 | 最长回文子序列                     | DP      | [516_longest_palindrome_subseq](src/dp/_516_longest_palindrome_subseq.rs)|
