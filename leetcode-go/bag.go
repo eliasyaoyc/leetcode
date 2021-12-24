@@ -1,6 +1,7 @@
 package leetcode_go
 
-func bag(weight, value []int, bagWeight int) int {
+// 01 bag.
+func bag01(weight, value []int, bagWeight int) int {
 	dp := make([][]int, len(weight))
 	for i, _ := range dp {
 		dp[i] = make([]int, bagWeight+1)
@@ -17,12 +18,23 @@ func bag(weight, value []int, bagWeight int) int {
 	return dp[len(weight)-1][bagWeight]
 }
 
-// 一维数组
-func bag1(weight, value []int, bagWeight int) int {
+// 01 bag(一维数组).
+func bag011(weight, value []int, bagWeight int) int {
 	dp := make([]int, bagWeight+1)
 	for i := 0; i < len(weight); i++ {
 		for j := bagWeight; j >= weight[i]; j-- {
 			dp[j] = max(dp[j], dp[j-weight[i]])
+		}
+	}
+	return dp[bagWeight]
+}
+
+// Complete bag.
+func bagComplete(weight, value []int, bagWeight int) int {
+	dp := make([]int, bagWeight+1)
+	for i := 0; i < len(weight); i++ {
+		for j := weight[i]; j <= bagWeight; j++ {
+			dp[j] = max(dp[j], dp[j-weight[i]]+value[i])
 		}
 	}
 	return dp[bagWeight]

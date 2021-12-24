@@ -114,12 +114,14 @@
 | 300 | 最长递增子序列                    | DP      | [300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [322_coin_change](src/dp/_322_coin_change.rs)                            |
 | 343 | 正数拆分                         | DP      | [343_integer_break](src/dp/_343_integer_break.rs)                        |
+| 377 | 组合总和 Ⅳ                       | DP      | [377_combinationSum4](src/dp/_377_combinationSum4.rs)                   |
 | 392 | 判断子序列                        | DP      | [392_is_subsequence](src/dp/_392_is_subsequence.rs)                      |
-| 416 | 分割等和子集                      | DP      | [416_can_partition](src/dp/_416_can_partition.rs)                       |
+| 416 | 分割等和子集                      | DP      | [416_can_partition](src/dp/_416_can_partition.rs)                        |
 | 474 | 一和零                           | DP      | [474_find_max_form](src/dp/_474_find_max_form.rs)                          |
 | 494 | 目标和                           | DP      | [494_find_target_sum_ways](src/dp/_494_find_target_sum_ways.rs)            |
 | 509 | 斐波那契数                        | DP      | [509_fib](src/dp/_509_fib.rs)                                              |
 | 516 | 最长回文子序列                     | DP      | [516_longest_palindrome_subseq](src/dp/_516_longest_palindrome_subseq.rs)|
+| 518 | 零钱兑换 II                       | DP      | [518_change](src/dp/_518_change.rs)                                      |
 | 583 | 两个字符串的删除操作                | DP      | [583_min_distance](src/dp/_583_min_distance.rs)                          |
 | 647 | 回文子串                          | DP      | [647_count_substrings](src/dp/_647_count_substrings.rs)                  |
 | 674 | 最长连续递增序列                    | DP      | [674_find_length_of_lcis](src/dp/_674_find_length_of_lcis.rs)             |

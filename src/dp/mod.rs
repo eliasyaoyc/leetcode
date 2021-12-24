@@ -56,3 +56,5 @@ mod _343_integer_break;
 mod _96_num_trees;
 mod _1049_last_stone_weight_ii;
 mod _474_find_max_form;
+mod _518_change;
+mod _377_combinationSum4;
