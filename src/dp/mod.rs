@@ -63,3 +63,5 @@ mod _139_word_break;
 mod _198_rob;
 mod _213_rob;
 mod _337_rob;
+mod _121_max_profit;
+mod _122_max_profit;
