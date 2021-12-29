@@ -112,6 +112,9 @@
 | 91 | 不同的二叉搜索                    | DP      | [96_num_trees](src/dp/_96_num_trees.rs)                                   |
 | 115 | 不同的子序列                     | DP      | [115_num_distinct](src/dp/_115_num_distinct.rs)                          |
 | 139 | 单词拆分                        | DP      | [139_word_break](src/dp/_139_word_break.rs)                               |
+| 198 | 打家劫舍                         | DP      | [198_rob](src/dp/_198_rob.rs)                                            |
+| 213 | 打家劫舍 II                      | DP      | [198_rob](src/dp/_198_rob.rs)                                            |
+| 337 | 打家劫舍 III                     | DP      | [337_rob](src/dp/_337_rob.rs)                                            |
 | 279 | 完全平方数                       | DP      | [279_num_squares](src/dp/_279_num_squares.rs)                            |
 | 300 | 最长递增子序列                    | DP      | [300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
 | 322 | 零钱兑换                         | DP      | [322_coin_change](src/dp/_322_coin_change.rs)                            |

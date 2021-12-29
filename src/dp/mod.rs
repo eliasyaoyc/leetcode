@@ -60,3 +60,6 @@ mod _518_change;
 mod _377_combinationSum4;
 mod _279_num_squares;
 mod _139_word_break;
+mod _198_rob;
+mod _213_rob;
+mod _337_rob;
