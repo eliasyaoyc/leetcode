@@ -1,4 +1,4 @@
-# Rust for LeetCode
+# LeetCode
 
 ## BST
 | 编号 | 名称                             | 题目类型 | 题解                                                        |
