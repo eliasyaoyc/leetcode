@@ -7,7 +7,7 @@ impl Solution {
         for i in 0..=target {
             for j in 0..nums.len() {
                 if i >= nums[j] {
-                    dp[i] += dp[i - nums[j]]
+                    dp[i as usize] += dp[i as usize - nums[j] as usize]
                 }
             }
         }
