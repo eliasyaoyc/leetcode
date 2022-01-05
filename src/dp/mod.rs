@@ -69,3 +69,4 @@ mod _123_max_profit;
 mod _188_max_profit;
 mod _309_max_profit;
 mod _714_max_profit;
+mod _72_min_distance;

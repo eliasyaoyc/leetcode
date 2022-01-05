@@ -108,7 +108,8 @@
 | 53 | 最大子序和                       | DP      | [53_max_sub_array](src/dp/_53_max_sub_array.rs)                          |
 | 62 | 不同路径                         | DP      | [62_unique_paths](src/dp/_62_unique_paths.rs)                            |
 | 63 | 不同路径 II                      | DP      | [63_unique_paths_with_obstacles](src/dp/_63_unique_paths_with_obstacles.rs)|
-| 70 | 爬楼梯                           | DP      | [70_climb_stairs](src/dp/_70_climb_stairs.rs)                            |
+| 70 | 爬楼梯                           | DP      | [70_climb_stairs](src/dp/_70_climb_stairs.rs)                             |
+| 72 | 编辑距离                         | DP      | [72_min_distance](src/dp/_72_min_distance.rs)                             |
 | 91 | 不同的二叉搜索                    | DP      | [96_num_trees](src/dp/_96_num_trees.rs)                                   |
 | 115 | 不同的子序列                     | DP      | [115_num_distinct](src/dp/_115_num_distinct.rs)                          |
 | 121 | 买卖股票的最佳时机                | DP      | [121_max_profit](src/dp/_121_max_profit.rs)                                |
