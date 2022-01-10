@@ -128,6 +128,8 @@
 | 377 | 组合总和 Ⅳ                       | DP      | [377_combinationSum4](src/dp/_377_combinationSum4.rs)                   |
 | 392 | 判断子序列                        | DP      | [392_is_subsequence](src/dp/_392_is_subsequence.rs)                      |
 | 416 | 分割等和子集                      | DP      | [416_can_partition](src/dp/_416_can_partition.rs)                        |
+| 435 | 无重叠区间                        | DP      | [435_erase_overlap_intervals](src/dp/_435_erase_overlap_intervals.rs)    |
+| 452 | 用最少数量的箭引爆气球              | DP      | [452_find_min_arrow_shots](src/dp/_452_find_min_arrow_shots.rs)            |
 | 474 | 一和零                           | DP      | [474_find_max_form](src/dp/_474_find_max_form.rs)                          |
 | 494 | 目标和                           | DP      | [494_find_target_sum_ways](src/dp/_494_find_target_sum_ways.rs)            |
 | 509 | 斐波那契数                        | DP      | [509_fib](src/dp/_509_fib.rs)                                              |
