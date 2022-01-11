@@ -7,7 +7,7 @@ impl Solution {
             a[0].cmp(&b[0])
         });
         for i in 1..points.len() {
-            if points[i][0] > points[j][1] {
+            if points[i][0] > points[i][1] {
                 ret+=1;
             }else {
                 points[i][1] = points[i][1].min(points[i- 1][1])

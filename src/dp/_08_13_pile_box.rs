@@ -14,7 +14,7 @@ impl Solution {
         for i in 1..nums.len() {
             dp[i] = nums[i][2];
             for j in 0..nums.len() {
-                if dp[i][0] > dp[j][0] && dp[i][1] > dp[j][1] && dp[i][2] > dp[j][2] {
+                if nums[i][0] > nums[j][0] && nums[i][1] > nums[j][1] && nums[i][2] > nums[j][2] {
                     dp[i] = dp[i].max(dp[j] + nums[i][2])
                 }
             }
