@@ -75,3 +75,6 @@ mod _435_erase_overlap_intervals;
 mod _452_find_min_arrow_shots;
 mod _05_03_reverse_bits;
 mod _17_13_respace;
+mod moving_count;
+mod cutting_rope_01;
+mod cutting_rope_02;
