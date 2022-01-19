@@ -119,6 +119,7 @@
 | 139 | 单词拆分                         | DP      | [139_word_break](src/dp/_139_word_break.rs)                              |
 | 198 | 打家劫舍                         | DP      | [198_rob](src/dp/_198_rob.rs)                                            |
 | 213 | 打家劫舍 II                      | DP      | [198_rob](src/dp/_198_rob.rs)                                            |
+| 264 | 丑数 II                         | DP       | [264_nth_ugly_number](src/other/_264_nth_ugly_number.rs)                |
 | 337 | 打家劫舍 III                     | DP      | [337_rob](src/dp/_337_rob.rs)                                            |
 | 279 | 完全平方数                       | DP      | [279_num_squares](src/dp/_279_num_squares.rs)                            |
 | 300 | 最长递增子序列                    | DP      | [300_length_of_lis](src/dp/_300_length_of_lis.rs)                        |
@@ -141,6 +142,7 @@
 | 714 | 买卖股票的最佳时机含手续费           | DP      | [714_max_profit](src/dp/_714_max_profit.rs)                                |
 | 718 | 最长重复子数组                     | DP      | [718_find_length](src/dp/_718_find_length.rs)                              |
 | 746 | 使用最小花费爬楼梯                  | DP      | [746_min_cost_climbing_stairs](src/dp/_746_min_cost_climbing_stairs.rs)  |
+| 926 | 将字符串翻转到单调递增               | DP      | [926_min_flips_mono_incr](src/dp/_926_min_flips_mono_incr.rs)             |
 | 931 | 下降路径最小和                     | DP      | [931_min_falling_path_sum](src/dp/_931_min_falling_path_sum.rs)          |
 | 1035 | 不相交的线                        | DP      | [1035_max_uncrossed_lines](src/dp/_1035_max_uncrossed_lines.rs)          |
 | 1049 | 最后一块石头的重量 II               | DP      | [1049_last_stone_weight_ii](src/dp/_1049_last_stone_weight_ii.rs)       |
@@ -151,5 +153,6 @@
 
 ## Other
 | 编号 | 名称                             | 题目类型 | 题解                                                                      |
-| --- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
-| 208  | 实现 Trie(前缀树)                | Tree      | [208_trie](src/other/_208_trie.rs)                                     |
+| -- | ------------------------------- | ------- | ------------------------------------------------------------------------ |
+| 208 | 实现 Trie(前缀树)                | Tree      | [208_trie](src/other/_208_trie.rs)                                     |
+| 219 | 存在重复元素 II                   |          | [219_contains_nearby_duplicate](src/other/_219_contains_nearby_duplicate.rs)|
