@@ -12,7 +12,7 @@ impl Solution {
             dp[0][1] = 0;
         }
         for i in 1..s.len() {
-            if s[i] != 0 {
+            if s[i] != '0' {
                 dp[i][0] = dp[i - 1][0] + 1;
                 dp[i][1] = dp[i - 1][0].min(dp[i - 1][1])
             }else {
