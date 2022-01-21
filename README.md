@@ -137,6 +137,7 @@
 | 509 | 斐波那契数                        | DP      | [509_fib](src/dp/_509_fib.rs)                                              |
 | 516 | 最长回文子序列                     | DP      | [516_longest_palindrome_subseq](src/dp/_516_longest_palindrome_subseq.rs)|
 | 518 | 零钱兑换 II                       | DP      | [518_change](src/dp/_518_change.rs)                                      |
+| 542 | 01 矩阵                          | DP      | [542_update_matrix](src/dp/_542_update_matrix.rs)                        |
 | 583 | 两个字符串的删除操作                | DP      | [583_min_distance](src/dp/_583_min_distance.rs)                          |
 | 647 | 回文子串                          | DP      | [647_count_substrings](src/dp/_647_count_substrings.rs)                  |
 | 674 | 最长连续递增序列                    | DP      | [674_find_length_of_lcis](src/dp/_674_find_length_of_lcis.rs)             |
