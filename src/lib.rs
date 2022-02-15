@@ -2,6 +2,7 @@ mod bst;
 mod dp;
 mod other;
 mod backtracing;
+mod shieberbook;
 
 use std::rc::Rc;
 use std::cell::RefCell;
